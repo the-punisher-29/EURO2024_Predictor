@@ -1,5 +1,7 @@
 # EURO2024_Predictor
-DT Based ML Model that predicts the results of all the EURO2024 Matches and consequently the winner!
+DecisionTree Based ML Model that predicts the results of all the EURO2024 Matches and consequently the winner!\
+Note:-I have considered matches after 2009 to train the model to be relevant with the current scenario😎
+(as some teams that were dominant in the last century are kinda trash now and have become less relevant)
 
 #About Dataset-
 This dataset includes 47,126 results of international football matches starting from the very first official match in 1872 up to 2024. The matches range from FIFA World Cup to FIFI Wild Cup to regular friendly matches. The matches are strictly men's full internationals and the data does not include Olympic Games or matches where at least one of the teams was the nation's B-team, U-23 or a league select team.
