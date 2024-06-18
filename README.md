@@ -14,6 +14,6 @@ away_score - full-time away team score including extra time, not including penal
 tournament - the name of the tournament\
 city - the name of the city/town/administrative unit where the match was played\
 country - the name of the country where the match was played\
-neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue\
+neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
 Link-https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
